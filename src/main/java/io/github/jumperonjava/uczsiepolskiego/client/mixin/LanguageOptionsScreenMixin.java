@@ -1,4 +1,4 @@
-package dev.syoritohatsuki.learnenglish.client.mixin;
+package io.github.jumperonjava.uczsiepolskiego.client.mixin;
 
 import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.client.gui.screen.option.GameOptionsScreen;
@@ -49,6 +49,6 @@ class LanguageEntryMixin {
             )
     )
     private Text changeNonEnglishLanguagesLabels(LanguageOptionsScreen.LanguageSelectionListWidget.LanguageEntry instance) {
-        return languageCode.equals("en_us") ? languageDefinition : Text.literal("Learn English");
+        return languageCode.equals("pl_pl") ? languageDefinition : Text.literal("Ucz się polskiego");
     }
 }

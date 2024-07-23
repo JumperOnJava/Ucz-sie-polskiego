@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -11,103 +12,101 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/syorito-hatsuki/learn-english">
-    <img src="https://github.com/syorito-hatsuki/learn-english/blob/1.21/src/main/resources/assets/learnenglish/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/JumperOnJava/Ucz-sie-polskiego">
+    <img src="https://github.com/JumperOnJava/Ucz-sie-polskiego/blob/1.21/src/main/resources/assets/uczsiepolskiego/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Learn English</h3>
+<h3 align="center">Ucz się polskiego</h3>
 
   <p align="center">
-    Seriously. Learn it.
+    Serio. Ucz się go.
     <br />
-    <a href="https://discord.gg/pbwnMwnUD6">Support</a>
+    <a href="https://discord.gg/pbwnMwnUD6">Wsparcie</a>
     ·
-    <a href="https://github.com/syorito-hatsuki/learn-english/issues">Report Bug</a>
+    <a href="https://github.com/JumperOnJava/Ucz-sie-polskiego/issues">Zgłoś błąd</a>
     ·
-    <a href="https://github.com/syorito-hatsuki/learn-english/issues">Request Feature</a>
+    <a href="https://github.com/JumperOnJava/Ucz-sie-polskiego/issues">Zaproponuj funkcję</a>
   </p>
 </div>
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Spis treści</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#o-projekcie">O Projekcie</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#zbudowano-z">Zbudowano z</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#użycie">Użycie</a></li>
+    <li><a href="#plan">Plan</a></li>
+    <li><a href="#współpraca">Współpraca</a></li>
+    <li><a href="#licencja">Licencja</a></li>
   </ol>
 </details>
 
-## About The Project
+## O Projekcie
 
-![In-Game ScreenShot][screenshot]
+![Zrzut Ekranu w Grze][screenshot]
 
-Using English in Minecraft connects you with players worldwide, enhancing your game experience and language skills. It's
-a fun and practical way to learn, opening doors to global friendships and future career opportunities. Let's build and
-learn together in English!
+Używanie polskiego w Minecraft łączy cię z graczami na całym świecie, poprawiając twoje doświadczenia w grze i umiejętności językowe. To zabawny i praktyczny sposób nauki, otwierający drzwi do globalnych przyjaźni i przyszłych możliwości zawodowych. Budujmy i uczmy się razem po polsku!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
-### Built With
+### Zbudowano z
 
 * ![Fabric][fabric]
 * ![ModMenu Badges Lib][modmenu-badges-lib]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
-## Usage
+## Użycie
 
 Plug and play
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
-## Roadmap
+## Plan
 
-See the [open issues](https://github.com/syorito-hatsuki/learn-english/issues) for a full list of proposed features (and known issues).
+Zobacz [otwarte zgłoszenia](https://github.com/JumperOnJava/Ucz-sie-polskiego/issues) dla pełnej listy proponowanych funkcji (i znanych problemów).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
-## Contributing
+## Współpraca
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Wkład jest tym, co sprawia, że społeczność open source jest tak niesamowitym miejscem do nauki, inspirowania i tworzenia. Każdy wkład jest **bardzo doceniany**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Jeśli masz sugestię, która mogłaby ulepszyć ten projekt, proszę rozgałęź repozytorium i utwórz pull request. Możesz również otworzyć zgłoszenie z tagiem "ulepszenie". 
+Nie zapomnij dać gwiazdki projektowi! Dzięki jeszcze raz!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Rozgałęź projekt
+2. Utwórz gałąź funkcji (`git checkout -b feature/AmazingFeature`)
+3. Zatwierdź swoje zmiany (`git commit -m 'Dodaj AmazingFeature'`)
+4. Wypchnij na gałąź (`git push origin feature/AmazingFeature`)
+5. Otwórz Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
-## License
+## Licencja
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Dystrybuowane na licencji MIT. Zobacz `LICENSE.txt` po więcej informacji.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">wróć na górę</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/syorito-hatsuki/learn-english.svg?style=for-the-badge
-[contributors-url]: https://github.com/syorito-hatsuki/learn-english/graphs/contributors
+[contributors-url]: https://github.com/JumperOnJava/Ucz-sie-polskiego/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/syorito-hatsuki/learn-english.svg?style=for-the-badge
-[forks-url]: https://github.com/syorito-hatsuki/learn-english/network/members
+[forks-url]: https://github.com/JumperOnJava/Ucz-sie-polskiego/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/syorito-hatsuki/learn-english.svg?style=for-the-badge
-[stars-url]: https://github.com/syorito-hatsuki/learn-english/stargazers
+[stars-url]: https://github.com/JumperOnJava/Ucz-sie-polskiego/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/syorito-hatsuki/learn-english.svg?style=for-the-badge
-[issues-url]: https://github.com/syorito-hatsuki/learn-english/issues
+[issues-url]: https://github.com/JumperOnJava/Ucz-sie-polskiego/issues
 
 [license-shield]: https://img.shields.io/github/license/syorito-hatsuki/learn-english.svg?style=for-the-badge
-[license-url]: https://github.com/syorito-hatsuki/learn-english/blob/master/LICENSE.txt
+[license-url]: https://github.com/JumperOnJava/Ucz-sie-polskiego/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kit-lehto

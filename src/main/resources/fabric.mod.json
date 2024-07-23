@@ -1,24 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "learn-english",
+  "id": "uczsiepolskiego",
   "version": "${modVersion}",
   "name": "${modName}",
-  "description": "Using English in Minecraft connects you with players worldwide, enhancing your game experience and language skills. It's a fun and practical way to learn, opening doors to global friendships and future career opportunities. Let's build and learn together in English!",
+  "description": "Używanie języka angielskiego w grze Minecraft łączy Cię z graczami na całym świecie, poprawiając Twoje wrażenia z gry i umiejętności językowe. To zabawny i praktyczny sposób nauki, otwierający drzwi do globalnych przyjaźni i przyszłych możliwości kariery. Budujmy i uczmy się razem po angielsku!",
   "authors": [
-    "Syorito Hatsuki"
+    "Syorito Hatsuki",
+    "javajumper"
   ],
   "contact": {
-    "homepage": "https://syorito-hatsuki.dev/",
-    "issues": "https://github.com/syorito-hatsuki/learn-english/issues",
-    "sources": "https://github.com/syorito-hatsuki/learn-english"
+    "homepage": "https://javajumper.github.io/",
+    "issues": "https://github.com/jumperonjava/uczsiepolskiego/issues",
+    "sources": "https://github.com/jumperonjava/uczsiepolskiego"
   },
   "license": "MIT Licence",
-  "icon": "assets/learnenglish/icon.png",
+  "icon": "assets/uczsiepolskiego/icon.png",
   "environment": "client",
+  "entrypoints": {
+    "client": ["io.github.jumperonjava.uczsiepolskiego.client.UczSiePolskiegoEntrypoint"]
+  },
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://discord.gg/pbwnMwnUD6"
+        "modmenu.discord": "https://discord.gg/"
       },
       "badges": [],
       "update_checker": true
@@ -31,9 +35,9 @@
       }
     ]
   },
-  "accessWidener": "learnenglish.accesswidener",
+  "accessWidener": "uczsiepolskiego.accesswidener",
   "mixins": [
-    "learnenglish.mixins.json"
+    "uczsiepolskiego.mixins.json"
   ],
   "depends": {
     "fabricloader": "*",

@@ -11,7 +11,7 @@ plugins {
 }
 
 loom {
-    accessWidenerPath = file("src/main/resources/learnenglish.accesswidener")
+    accessWidenerPath = file("src/main/resources/uczsiepolskiego.accesswidener")
 }
 
 repositories {
